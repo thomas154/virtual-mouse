@@ -4,3 +4,5 @@ Determining color of a object through webcam, and moving the mouse pointer as th
 
 # Dependencies
 - Pymouse
+- Numpy
+- imutils
